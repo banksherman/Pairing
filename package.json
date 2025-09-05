@@ -1,7 +1,7 @@
 {
-  "name": "edith-md-full",
+  "name": "bsn-md-full",
   "version": "1.0.0",
-  "description": "EDITH-MD full-stack site with QR & Pair API",
+  "description": "BAN-MD full-stack site with QR & Pair API",
   "main": "server.js",
   "type": "module",
   "scripts": {
