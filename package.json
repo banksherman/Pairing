@@ -1,0 +1,19 @@
+{
+  "name": "edith-md-full",
+  "version": "1.0.0",
+  "description": "EDITH-MD full-stack site with QR & Pair API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7",
+    "qrcode": "^1.5.4"
+  }
+}
