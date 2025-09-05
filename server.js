@@ -71,5 +71,5 @@ app.use(express.static('public'));
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`EDITH-MD server running on :${PORT}`);
+  console.log(`BAN-MD server running on :${PORT}`);
 });
