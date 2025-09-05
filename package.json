@@ -1,0 +1,13 @@
+{
+  "name": "banmd-pair",
+  "version": "1.0.0",
+  "description": "BAN-MD Mini Pairing Website using Baileys",
+  "main": "pair.js",
+  "scripts": {
+    "start": "node pair.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "express": "^4.18.2"
+  }
+}
